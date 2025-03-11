@@ -24,7 +24,7 @@ Antes de executar o script, certifique-se de ter o seguinte instalado:
 2. **Bibliotecas Necessárias**: Instale as bibliotecas Python necessárias usando o pip:
 
 ```bash
-    pip install requests pyperclip
+    pip install google-generativeai pyperclip python-dotenv
 ``` 
 3. **Chave da API Gemini**: Obtenha uma chave de API do Gemini e substitua `YOUR_API_KEY_HERE` no script ou importe de um .env.
     
