@@ -43,7 +43,7 @@ Antes de executar o script, certifique-se de ter o seguinte instalado:
 2. **Execute o Script**:
 
 ```bash    
-    python gerador_commit.py
+    python main.py
 ```    
 
 3. **Insira Sua Entrada**:
